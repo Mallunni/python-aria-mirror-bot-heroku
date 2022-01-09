@@ -1,0 +1,12 @@
+{
+    "name": "Mahaan",
+    "repository": "https://github.com/mohitjoshi155/python-aria-mirror-bot-heroku",
+    "env": {},
+    "stack": "container",
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
